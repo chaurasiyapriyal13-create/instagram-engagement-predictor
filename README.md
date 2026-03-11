@@ -1,4 +1,4 @@
- Instagram Engagement Predictor
+##Instagram enagament predictor (ML mini project ) for collage 
 
 ## Project Overview
 This project predicts Instagram post engagement (likes) using Machine Learning.
