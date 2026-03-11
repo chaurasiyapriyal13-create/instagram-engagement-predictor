@@ -1,4 +1,4 @@
-# Instagram Engagement Predictor
+ Instagram Engagement Predictor
 
 ## Project Overview
 This project predicts Instagram post engagement (likes) using Machine Learning.
@@ -45,3 +45,6 @@ Random Forest Regressor was used to predict Instagram likes based on post featur
 - Add deep learning models
 - Deploy a web app for predictions
 - Integrate real Instagram API data
+
+ ## why did i choose this project
+ it is my collage assignment
